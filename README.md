@@ -1,10 +1,16 @@
-# Aurora: Personal Agent Companion on Aptos
+# Plutus: Personal Agent Companion on Aptos
 
-Aurora is a next-generation personal agent companion built on the Aptos blockchain, designed to empower users with a unified interface for managing their financial activities seamlessly. Leveraging the power of the Move Agent Kit and Echelon Markets, Aurora provides a comprehensive DeFi solution.
+Plutus is a next-generation personal agent companion built on the Aptos blockchain, designed to empower users with a unified interface for managing their financial activities seamlessly. Leveraging the power of the Move Agent Kit and Echelon Markets, Plutus provides a comprehensive DeFi solution.
 
-## The Problem It Solves
+What it does
+Plutus is a next-generation personal agent companion built on the Aptos blockchain, designed to empower users with a unified interface for managing their financial activities seamlessly. Leveraging the power of the Nodit MCP server and nodit config for Aptos for agentic actions and Echelon Markets, Plutus provides a comprehensive DeFi solution.
 
-In the DeFi ecosystem, users face challenges navigating multiple platforms to access liquidity pools, manage positions, and execute transactions. Aurora solves this by providing a unified interface powered by Echelon Markets integration.
+
+
+The problem it solves
+In the DeFi ecosystem, users face challenges navigating multiple platforms to access liquidity pools, manage positions, and execute transactions. Plutus solves this by providing a unified interface powered by agentic market integration.
+
+
 
 ## Key Features & Implementation
 
@@ -130,7 +136,7 @@ Visit `http://localhost:5173` to access the development environment.
 
 ## Security
 
-Aurora prioritizes user safety with:
+Plutus prioritizes user safety with:
 - Advanced encryption for data protection
 - Smart contract audits
 - Optimized gas usage
